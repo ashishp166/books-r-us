@@ -67,7 +67,7 @@
 }
 
 .nav-btn {
-  background-color: rgb(254, 189, 105);
+  background-color: rgb(141, 146, 140);
   width: 3rem;
   border: none;
   border-radius: 0 0.2rem 0.2rem 0;
@@ -76,6 +76,7 @@
 
 .nav-btn img {
   width: 1.35rem;
+  color: white;
 }
 
 .nav-cart-container {

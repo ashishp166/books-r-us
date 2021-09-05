@@ -27,7 +27,7 @@ function MainHero() {
         <div className="MainHero">
             <Container>
                     <div className="header-container">
-                        <h2>Find your <br/> new four-legged <br/> best friend</h2>
+                        <h2>Find the <br/> Computer Science <br/>book that suits you</h2>
                         <img src={books.id1} />
                     </div>
                     <div className="cards-container">

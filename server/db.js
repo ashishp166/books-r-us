@@ -8,7 +8,7 @@ const mainCards = [
       image: 'id2',
     },
     {
-      title: 'Best Behaved',
+      title: 'Now Trending',
       image: 'id3',
     },
 ];
@@ -3542,26 +3542,26 @@ const books = [
     {
         id: "1",
         image: "id1",
-        category: "cats",
-        slug: "cats"
+        category: "hardcover",
+        slug: "hardcover"
     },
     {
       id: "2",
       image: "id2",
-      category: "reptiles",
-      slug: "reptiles"
+      category: "kindle",
+      slug: "kindle"
     },
     {
       id: "3",
       image: "id3",
-      category: "ocean creatures",
-      slug: "ocean-creatures"
+      category: "paperback",
+      slug: "paperback"
     },
     {
       id: "4",
       image: "id4",
-      category: "mammals",
-      slug: "mammals"
+      category: "online",
+      slug: "online"
     }
 ]
 
