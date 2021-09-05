@@ -10,6 +10,7 @@ Technolgies used: GraphQL(Apollo Server and Apollo Client), Docker
 - [x] GraphQL
 - [x] implement Docker
 - [x] Categorize Books(paperbook, hardbooks, kindle)
+- [x] Book Descriptions(stars, # ratings, # stock, description, price)
 - [ ] Now Trending
 - [ ] Recently Viewed
 - [ ] Search feature
