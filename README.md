@@ -16,4 +16,3 @@ Features: Book Description(stars, # ratings, # stock, description, price), Searc
 - [ ] Search feature
 - [ ] Add items to cart
 - [ ] Checkout with card
-- [ ] Login Authentication
